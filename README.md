@@ -9,3 +9,6 @@
 - After creating second testing branch, move forward.
 - Add Something on local with connection to remote serve.
 - Meger main on local.
+- Add serverfix branch, foward and push to origin.
+- Add some changes to test tracking.
+- Finish Serverfix locally.
